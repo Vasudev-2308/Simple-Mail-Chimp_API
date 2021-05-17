@@ -33,7 +33,7 @@ const jsondata = JSON.stringify(data);
 const url = "https://us2.api.mailchimp.com/3.0/lists/dd5c5c219b";
 const options = {
     method:"POST",
-    auth: "Vasudev:1e39216d1a9c797d1cefc8e6ef13cc9b-us2"
+    auth: "Use your API Key"
 };
 
 
